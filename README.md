@@ -1,4 +1,4 @@
-# Cosha: Your AI Ultimate Buddy 🤖⚡
+# Cosha: Your Ultimate AI Buddy 🤖⚡
 
 #### Revolutionize your development workflow with Cosha, your ultimate AI coding companion. Cosha seamlessly integrates with your environment, offering real-time collaboration, intuitive code comprehension, and insightful analytics.
 
